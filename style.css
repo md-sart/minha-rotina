@@ -4,28 +4,29 @@
     box-sizing: border-box;
 }
 
-/* Estilos para o corpo da página */
 body {
     font-family: Arial, sans-serif;
-    background-color: #1e1e1e; /* Preto */
-    color: #fff; /* Branco */
+    background-color: #1e1e1e; 
+    color: #fff; 
     line-height: 1.6;
-    text-align: center; /* Centraliza todo o texto */
+    text-align: center; 
 }
 
-/* Estilos para o cabeçalho */
+header img {
+    border-radius: 50%;
+}
+
 header {
-    background-color: #6a0dad; /* Roxo */
+    background-color: #6a0dad; 
     padding: 20px;
 }
 
 header h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
-    color: #fff; /* Branco */
+    color: #fff; 
 }
 
-/* Estilos para a navegação */
 nav ul {
     list-style: none;
 }
@@ -36,30 +37,28 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff; /* Branco */
+    color: #fff;
     text-decoration: none;
     font-size: 1.2em;
     transition: color 0.3s ease;
 }
 
 nav ul li a:hover {
-    color: #d8b0ff; /* Roxo claro */
+    color: #d8b0ff; 
 }
 
-/* Estilos para a seção principal */
 main {
     padding: 20px;
 }
 
 main h2 {
-    color: #6a0dad; /* Roxo */
+    color: #6a0dad; 
     margin-bottom: 15px;
 }
 
-/* Estilos para o rodapé */
 footer {
-    background-color: #6a0dad; /* Roxo */
-    color: #fff; /* Branco */
+    background-color: #6a0dad; 
+    color: #fff; 
     text-align: center;
     padding: 20px;
 }
@@ -68,13 +67,12 @@ footer p {
     font-size: 0.9em;
 }
 
-/* Estilos para links */
 a {
-    color: #d8b0ff; /* Roxo claro */
+    color: #d8b0ff; 
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #fff; /* Branco */
+    color: #fff; 
 }
