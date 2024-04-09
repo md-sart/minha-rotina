@@ -10,6 +10,7 @@ body {
     background-color: #1e1e1e; /* Preto */
     color: #fff; /* Branco */
     line-height: 1.6;
+    text-align: center; /* Centraliza todo o texto */
 }
 
 /* Estilos para o cabeçalho */
