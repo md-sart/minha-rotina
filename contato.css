@@ -1,0 +1,15 @@
+
+body {
+    background-color: black;
+    text-align: center;
+    color: azure;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+a:hover {
+    color: #b900a1;
+    font-size: larger; 
+}
