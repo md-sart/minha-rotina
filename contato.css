@@ -9,6 +9,10 @@ header img {
     border-radius: 50%;
 }
 
+a {
+    color: azure;
+}
+
 a:hover {
     color: #b900a1;
     font-size: larger; 
